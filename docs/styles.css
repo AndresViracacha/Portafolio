@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto' , Arial, Helvetica, sans-serif;
+}
+.arreglo{
+    clear: both;
+}
+body{
+    height: 5000px;
+}
+header{
+    width: 100%;
+    background-color: #181818;
+}
+
+.header{
+    font-size: 50px;
+    width: 700px;
+    font-weight: 500;
+    color: #ffffff;
+    padding: 400px 0;
+    padding-left: 200px;
+    float: left;
+}
+header img{
+    width: 500px;
+    float: right;
+    margin-top: 125px;
+    margin-right: 200px;
+    box-shadow: 10px 1px 100px  #ffffff50;
+}
+
+.contenedor{
+    width: 1000px;
+    margin: 0 auto;
+}
