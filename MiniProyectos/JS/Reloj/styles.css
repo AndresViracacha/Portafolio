@@ -1,0 +1,29 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.general{
+    width: 80%;
+    background-color: #0067bb;
+    margin: 0 auto;
+}
+.gTiempo{
+    width: calc(100% / 3);
+    float: left;
+    text-align: center;
+}
+.reset{
+    clear: both;
+}
+.titulo{
+    padding:20px 0 ;
+    color: #ffffff;
+    font-weight: bolder;
+    font-size: 3em;
+}
+.mTiempo{
+    padding:100px 0 ;
+    color: #ffffff;
+    background-color: #0383ec;
+    font-weight: bolder;
+    font-size: 3em;
+}
